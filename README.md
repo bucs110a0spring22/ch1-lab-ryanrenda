@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ When a grace day is not used, for every 24 hour period the assignmnet is late then the lab is deducted 10% points from the total possible score. Up to and including the last day of classes,previous labs may be sumbitted for up to 50% credit. We also have 5 grace days to use on labs which will not count them as late if they are properly used. >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment:  0 
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+  N/A
 
 ## REFERENCES:
- < List any outside resources used >
+  N/A 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+  N/A 
